@@ -13,7 +13,7 @@
 ## 📩 Connect with me
 
 <p align="left">
-    <a href="mailto:marawanmohamed9876@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+    <a href="mailto:abdalrhamnahmed00004@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
     <a href="https://www.linkedin.com/in/ab-dalrhm-an" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
     <a href="https://twitter.com/AB_DALRAHM_AN"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"/></a>
 </p>
@@ -28,7 +28,6 @@
     <a href="https://react.dev/learn"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
     <a href="https://reactrouter.com/en/main"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></a>
     <a href="https://cplusplus.com/reference/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-    <a href="https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu- bash&logoColor=white"/></a>
 </p>
 
 ## 📊 Github Stats
