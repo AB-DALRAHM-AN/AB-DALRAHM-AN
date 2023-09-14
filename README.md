@@ -1,32 +1,44 @@
-<h1 align="center">Hi 👋, I'm Abdalrahman</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h1 align="left">Hi there, I'm Abdalrhman Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height ="25px"> </h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ab-dalrahm-an" alt="ab-dalrahm-an" /></a> </p>
+<h3 align="center">A Passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning **Js**
+:school: I'm a `Business Student` from the Faculty of Business at Alexandria University
 
-- 👨‍💻 All of my projects are available at [https://abdalrhman.me](https://abdalrhman.me)
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **HTML & CSS**
+- 🧑🏻‍💻 I'm open to a new `job opportunity`.
 
-- 📫 How to reach me **abdalrhmanahmed00004@gmail.com**
+- 📄 Know about my experiences [Portfolio](https://abdalrhman.me)
 
-- ⚡ Fun fact **I Think I'm Funny🙃**
+## 📩 Connect with me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ab_dalrhm_an" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ab_dalrhm_an" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ab-dalrhm-an/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ab-dalrhm-an/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/abdalrhman.ahmed.1694059/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdalrhman.ahmed.1694059/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ab_dalrhm_an/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ab_dalrhm_an/" height="30" width="40" /></a>
+    <a href="mailto:marawanmohamed9876@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+    <a href="https://www.linkedin.com/in/ab-dalrhm-an" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+    <a href="https://twitter.com/AB_DALRAHM_AN"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🛠 Languages and Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-dalrahm-an&show_icons=true&locale=en&layout=compact" alt="ab-dalrahm-an" /></p>
+<p align="center"> 
+    <a href="https://www.w3.org/TR/html5/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5"/></a>
+    <a href="https://www.w3.org/TR/css/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3"/></a>
+    <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" title="JS"/></a>
+    <a href="https://react.dev/learn"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+    <a href="https://reactrouter.com/en/main"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></a>
+    <a href="https://cplusplus.com/reference/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+    <a href="https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu- bash&logoColor=white"/></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ab-dalrahm-an&show_icons=true&locale=en" alt="ab-dalrahm-an" /></p>
+## 📊 Github Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AB-DALRAHM-AN&theme=tokyonight_duo" alt="AB-DALRAHM-AN" /></p>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="AB-DALRAHM-AN's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AB-DALRAHM-AN&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=AB-DALRAHM-AN&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="AB-DALRAHM-AN" height="230px"/>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ab-dalrahm-an&" alt="ab-dalrahm-an" /></p>
-
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
