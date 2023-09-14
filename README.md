@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdalrahman</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/646f5358f4193ae10b487c0e?variant=dark&roadmaps=frontend)](https://roadmap.sh)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ab-dalrahm-an" alt="ab-dalrahm-an" /></a> </p>
 
