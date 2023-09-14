@@ -2,7 +2,7 @@
 
 <h3 align="center">A Passionate Software Engineer</h3>
 
-:school: I'm a `Business Student` from the Faculty of Business at Alexandria University
+:school: I'm a `Business Student` from the Faculty of Business at Ain Shams University
 
 - 🌱 I’m currently learning **React.js**
 
