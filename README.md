@@ -38,6 +38,3 @@
 	    <img alt="AB-DALRAHM-AN's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AB-DALRAHM-AN&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=AB-DALRAHM-AN&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="AB-DALRAHM-AN" height="230px"/>
 <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
