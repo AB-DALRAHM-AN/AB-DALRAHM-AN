@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Abdalrhman Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height ="25px"> </h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A Software Engineer from Egypt" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A Software Developer from Egypt" alt="Typing SVG" /></a>
 
 :school: I'm a `Business Student` from the Faculty of Business at Ain Shams University
 
