@@ -35,5 +35,7 @@
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	<img alt="Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AB-DALRAHM-AN&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	<img alt="Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AB-DALRAHM-AN&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+	<img alt="Github Stats" src="
+    </a>
 <br/>
