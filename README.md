@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Abdalrhman Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height ="25px"> </h1>
 
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A Software Developer from Egypt" alt="Typing SVG" /></a>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A Software Developer from Egypt" alt="Typing SVG" /></a> -->
 
 :school: I'm a `Business Student` from the Faculty of Business at Ain Shams University
 
