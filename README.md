@@ -9,7 +9,7 @@
 
 - 🧑🏻‍💻 I'm open to a new `job opportunity`.
 
-- 📄 Know about my experiences [Portfolio](https://abdalrhman.me)
+- 📄 Know about my experiences [Portfolio](https://abdalrahman.tech)
 
 
 ## 📩 Connect with me
